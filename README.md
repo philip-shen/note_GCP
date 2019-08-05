@@ -3,6 +3,7 @@ Take a note related GCP
 
 # Reference
 * [在 GCP 建立 Network Load Balancer 和 HTTP Load Balancer 2019-04-24](https://titangene.github.io/article/gcp-network-and-http-load-balancer.html)  
+* [Understand how GCP Load Balancer works and build one 2019-08-04](https://tn710617.github.io/GCPLoadBalancer/)  
 
 * []()  
 ![alt tag]()
